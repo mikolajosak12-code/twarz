@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug",
+  "command": "/usr/bin/c++ -isystem /opt/homebrew/Cellar/opencv@4/4.14.0_11/include/opencv4 -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/twarz.dir/main.cpp.o -c /Users/mikolajosak/CLionProjects/twarz/main.cpp",
+  "file": "/Users/mikolajosak/CLionProjects/twarz/main.cpp",
+  "output": "/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/twarz.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/rysy_twarzy.dir/main.cpp.o -c /Users/mikolajosak/CLionProjects/twarz/main.cpp",
+  "file": "/Users/mikolajosak/CLionProjects/twarz/main.cpp",
+  "output": "/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/rysy_twarzy.dir/main.cpp.o"
+}
+]

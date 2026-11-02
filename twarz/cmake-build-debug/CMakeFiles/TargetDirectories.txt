@@ -1,0 +1,4 @@
+/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/twarz.dir
+/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/rysy_twarzy.dir
+/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mikolajosak/CLionProjects/twarz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
